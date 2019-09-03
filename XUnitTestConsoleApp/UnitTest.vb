@@ -4,6 +4,11 @@ Imports Xunit
 Imports ConsoleTestApp
 
 Namespace XUnitTestConsoleApp
+    'Program:   xUnit Unit tests for Message Implemenation
+    'Developer:	Mark McFadden
+    'Date:	    Today
+    'Purpose:	Unit tests
+
     Public Class UnitTest
         Private _message As Message
 
